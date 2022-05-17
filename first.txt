@@ -1,2 +1,4 @@
 commit
 revert
+stash
+restore
